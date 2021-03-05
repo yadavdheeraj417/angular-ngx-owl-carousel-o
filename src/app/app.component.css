@@ -1,0 +1,9 @@
+img {
+  margin: 0.5rem;
+  max-height: 300px;
+  max-width: 300px;
+}
+
+.image-spacer {
+  padding: 0rem;
+}
